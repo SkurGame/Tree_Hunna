@@ -2,5 +2,6 @@ colorama
 requests
 phonenumbers
 faker
-pandas
+whois
 beautifulsoup4
+pandas
